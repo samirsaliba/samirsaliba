@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning many different AI/ML/DS/data-visualization tools and frameworks...
+- 😄 Pronouns: he/him ele/dele...
+
 <!--
 **samirsaliba/samirsaliba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
