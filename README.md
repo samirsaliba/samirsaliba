@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 currently interested in building bots or cool machine-learning related APIs
+- 🌱 currently focused in finishining my master's research in xAI (xai + data mining)
 - 😄 he/him ele/dele
 
 <!--
