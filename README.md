@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 currently focused in finishining my master's research in xAI (xai + data mining)
+- 🌱 currently focused in finishing my master's research in xAI for timeseries
 - 😄 he/him ele/dele
 
 <!--
