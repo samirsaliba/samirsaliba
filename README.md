@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-- 🌱 currently focused in finishing my master's research in xAI for timeseries
-- 😄 he/him ele/dele
-
+- 🌱 Currently focused on finishing my master's research in **explainable AI (xAI) for time series**. My work involves developing an **evolutionary algorithm** to discover **time series subgroups using shapelets**, helping to uncover regions where time series classification models exhibit **atypical performance**.  
+- 💻 Experienced in **data science, data engineering, and machine learning engineering**, with a strong background in **building scalable data processing solutions** and **developing AI-powered applications**.  
+- 🚀 Currently working as a **Data Engineer**, specializing in **real-time data processing, streaming architectures, and scalable data pipelines**. My work spans **machine learning, backend engineering, and cloud-native infrastructure** across various industries.  
+- 🔗 Connect with me on **[LinkedIn](https://www.linkedin.com/in/samirtsj/)**.  
 <!--
 **samirsaliba/samirsaliba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
